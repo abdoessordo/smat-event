@@ -192,7 +192,7 @@ section {
 }
 
 .section-heading:hover {
-  /*padding: 4px 48px;*/
+  padding: 4px 48px;
   background: #093791;
   color: white;
 }
@@ -544,16 +544,16 @@ footer #social-media-footer ul li:hover a .fa-twitter {
   height: 300px;
   width: 100%;
   border: none;
-}
+  }
 
-#map{
-  width: 100%;
-  height: 100%;
-}
+  #map{
+    width: 100%;
+    height: 100%;
+  }
 
-#templogo{
-  width: 20%;
-}
+  #templogo{
+    width: 20%;
+  }
 
 
   .section-heading {
@@ -561,7 +561,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     text-align: center;
     padding-left: 0;
     padding-right: 0;
-    margin: 10% 30%;
+    margin: 10% 20%;
   }
 }
 
