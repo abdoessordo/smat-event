@@ -565,6 +565,10 @@ footer #social-media-footer ul li:hover a .fa-twitter {
   }
 }
 
+.spon{
+  width: 50%;
+}
+
 @media (max-width: 719px) {
   main {
     width: 95%;
@@ -591,6 +595,10 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     border-right: 0;
     padding-left: 0;
   }
+
+.spon{
+  width: 70%;
+}
 }
 
 @media (max-width: 600px) {
